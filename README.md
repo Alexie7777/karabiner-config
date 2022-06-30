@@ -1,5 +1,5 @@
 # karabiner-config
-[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)  [![Generic badge](https://img.shields.io/badge/karabiner-updating-<COLOR>.svg)](https://github.com/pqrs-org/Karabiner-Elements)
+[![macOS](https://svgshare.com/i/ZjP.svg)](https://www.apple.com/macos/monterey/)  [![Generic badge](https://img.shields.io/badge/karabiner-updating-<COLOR>.svg)](https://github.com/pqrs-org/Karabiner-Elements)
 
 My karabiner config file
 ## Features
